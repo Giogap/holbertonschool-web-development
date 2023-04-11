@@ -8,3 +8,8 @@
  - HTML - Semantic sectioning elements
  - HTML Semantic Elements
  - HTML Validation
+
+### 0. README and objectives!
+
+
+### 1. Header
