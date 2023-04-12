@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*Header Section*/
+.headerdiv {
+    background-color: transparent;
+    opacity: 90%;
+    display: flex;
+    justify-content: space-around;
+}
